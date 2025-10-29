@@ -122,7 +122,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="firstpost" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/firstpost.png" group-title="News",Firstpost
 https://live.dinesh29.com.np/stream/jiotvplus/firstpost/master.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ntv.png" group-title="News",NTV
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://cdn.smartads.in/images/product_group/television/ntv-telugu-logo.webp" group-title="News",NTV
 https://servertvhub.site/jio/app/ts_live_646.m3u8?type=live
 
 #EXTINF:-1 tvg-id="hmtv" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/hmtv.png" group-title="News",HM TV
