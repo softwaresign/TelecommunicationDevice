@@ -125,7 +125,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/firstpost/master.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://cdn.smartads.in/images/product_group/television/ntv-telugu-logo.webp" group-title="News",NTV
 https://servertvhub.site/jio/app/ts_live_646.m3u8?type=live
 
-#EXTINF:-1 tvg-id="hmtv" tvg-logo="https://en.wikipedia.org/wiki/HMTV#/media/File:HMTV_Channel_Logo.png" group-title="News",HM TV
+#EXTINF:-1 tvg-id="hmtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/HMTV_Channel_Logo.png" group-title="News",HM TV
 https://www.youtube.com/watch?v=uKSoQznQArI
 
 #EXTINF:-1 tvg-id="abnandhrajyothi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/abnandhrajyothi.png" group-title="News",Andhra Jyothi
