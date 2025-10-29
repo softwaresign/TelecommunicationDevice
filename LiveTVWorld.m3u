@@ -98,8 +98,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/etvcinemahd/master.m3u8
 #EXTINF:-1 tvg-id="etvplus" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvplus.png" group-title="Entertainment",ETV Plus
 https://live.dinesh29.com.np/stream/jiotvplus/etvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="etvplushd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvplushd.png" group-title="Entertainment",ETV Plus HD
-https://live.dinesh29.com.np/stream/jiotvplus/etvplushd/master.m3u8
+#EXTINF:-1 tvg-id="etvplushd" tvg-logo="https://i.ibb.co/yBGwKWmL/1000139371.jpg" group-title="Entertainment",ETV Plus HD
+https://d27tnkf60df3v4.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/e86f748a-e035-446a-8f6f-902e35faedcf/2.m3u8
 
 #EXTINF:-1 tvg-id="kushitv" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/kushitv.png" group-title="Kids",Kushi TV
 https://live.dinesh29.com.np/stream/jiotvplus/kushitv/master.m3u8
