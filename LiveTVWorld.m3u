@@ -131,8 +131,9 @@ https://servertvhub.site/jio/app/ts_live_665.m3u8?type=live
 #EXTINF:-1 tvg-id="abnandhrajyothi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/abnandhrajyothi.png" group-title="News",Andhra Jyothi
 https://live.dinesh29.com.np/stream/jiotvplus/abnandhrajyothi/master.m3u8
 
-#EXTINF:-1 tvg-id="tv5news" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/tv5news.png" group-title="News",TV 5 News
-https://live.dinesh29.com.np/stream/jiotvplus/tv5news/master.m3u8
+#EXTINF:-1 tvg-id="tv5news" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20240319095911" group-title="News",TV 5 News
+https://servertvhub.site/jio/app/ts_live_668.m3u8?type=live
+
 
 #EXTINF:-1 tvg-id="v6news" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/v6news.png" group-title="News",V6 News
 https://live.dinesh29.com.np/stream/jiotvplus/v6news/master.m3u8
