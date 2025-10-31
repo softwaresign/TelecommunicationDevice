@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
 #https://github.com/yuvraj824/zee5
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
 
 #EXTINF:-1 tvg-id="0-9-9z5383485" tvg-country="IN" tvg-chno="009" tvg-language="te" tvg-name="Zee Telugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg" group-title="Entertainment", Zee Telugu
 #KODIPROP:inputstream=inputstream.adaptive
