@@ -109,6 +109,11 @@ http://87.255.35.150:18881/
 #EXTINF:-1 tvg-id="" tvg-name="Star_Sports_1_Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
 http://cors.tundracast.com:2000/http://87.255.35.150:18811/.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://i.ibb.co/pjzTyFfQ/Hungama.png" group-title="Kids",Hungama
+http://87.255.35.150:18811/
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PCN HD" tvg-logo="https://i.ibb.co/gZG98hHQ/1000151358.png" group-title="Local Channels",PCN HD
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Harika Star" tvg-logo="https://i.ibb.co/G1P952Q/1000151348.png" group-title="Local Channels",Harika Star
