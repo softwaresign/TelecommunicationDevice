@@ -165,6 +165,12 @@ https://servertvhub.site/jio/app/ts_live_1242.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pogo Telugu" tvg-logo="https://i.ibb.co/4n56LwrX/1000148486.png" group-title="Kids",Pogo Telugu
 https://servertvhub.site/jio/app/ts_live_1883.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Siti Cable News" tvg-logo="https://i.ibb.co/kVJrVT6H/1000151324.png" group-title="Local Channels",Siti Cable News
+https://www.schannels.in/siticablenewstandur/video.m3u8?token=nokshitha
+
+#EXTINF:-1 tvg-id="" tvg-name="Siti Channel" tvg-logo="https://i.ibb.co/9mDgN0rP/siti-channel.png" group-title="Local Channels",Siti Channel
+https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Tv9" tvg-logo="https://i.ibb.co/ppcjnzr/1000150676.png" group-title="News",Tv9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
@@ -189,6 +195,9 @@ https://cdn-1.pishow.tv/live/1211/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABN Andra Jothi" tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png" group-title="News",ABN Andra Jothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="V6 News" tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png" group-title="Local Channels",V6 News
+https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PCN HD" tvg-logo="https://i.ibb.co/gZG98hHQ/1000151358.png" group-title="Local Channels",PCN HD
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
 
@@ -206,9 +215,6 @@ https://www.schannels.in/tirumalachannel/video.m3u8?token=nokshitha
 
 #EXTINF:-1 tvg-id="" tvg-name="S9 Channel" tvg-logo="https://i.ibb.co/TqDJNxy5/1000158152.png" group-title="Local Channels",S9 Channel
 https://sharsolution.in/hls/s9tv/s9tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="V6 News" tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png" group-title="Local Channels",V6 News
-https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sathya News Tv" tvg-logo="https://i.ibb.co/pvv6v793/1000153275.png" group-title="Local Channels",Sathya News Tv
 http://103.146.170.102:1935/satya/satya/chunklist_w1792896619.m3u8
