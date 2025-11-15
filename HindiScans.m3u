@@ -5,3 +5,6 @@ http://87.255.35.150:18810
 http://87.255.35.150:18851
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="" group-title="",Star Movies
 http://87.255.35.150:18211
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="" group-title="",Nick Channel
+http://87.255.35.150:18249
+
