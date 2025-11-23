@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
 http://87.255.35.150:18881/
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-2-Telugu-HD" group-title="Sports",Star Sports 2 Telugu
+http://87.255.35.150:18280/
+
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
