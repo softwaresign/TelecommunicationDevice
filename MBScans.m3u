@@ -13,13 +13,18 @@ https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-country="IN" tvg-chno="003" tvg-language="te" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="Entertainment", Zee Telugu HD
 http://87.255.35.150:18222
 
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU One
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeetelgu&key
+#EXTINF:-1 tvg-id="Zeetelgu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Dish DishTV",Zee Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeetelgu|User-Agent=Denver1769
 
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu Three
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-country="IN" tvg-chno="004" tvg-language="te" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="Movie", Zee Cinemalu HD
-http://87.255.35.150:18578
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeecinemalu&key
+#EXTINF:-1 tvg-id="Zeecinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Dish DishTV",Zee Cinemalu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeecinemalu|User-Agent=Denver1769
+
 
 #EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",StarMaa HD
 http://87.255.35.150:18846
@@ -39,6 +44,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU One
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu One
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-country="IN" tvg-chno="004" tvg-language="te" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="Movie", Zee Cinemalu HD
+http://87.255.35.150:18578
 
 
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="dishtv | Regional", Zee Telugu
