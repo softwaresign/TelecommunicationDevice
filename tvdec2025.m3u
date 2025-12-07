@@ -1,10 +1,47 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-2-Telugu-HD" group-title="Sports",Star Sports 2 Telugu
+http://87.255.35.150:18280/
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
+http://87.255.35.150:18881/
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv" tvg-logo="https://i.ibb.co/pBLMPh3Y/etv.jpg" group-title="Entertainment",E TV
+http://87.255.35.150:18217
+
+#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",StarMaa HD
+http://87.255.35.150:18846
+
+#EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="Music",Maa Music SD
+http://87.255.35.150:18816
+
+#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Maa Movies SD
+http://87.255.35.150:18817
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeetelgu&key
+#EXTINF:-1 tvg-id="Zeetelgu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Dish DishTV",Zee Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeetelgu|User-Agent=Denver1769
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeecinemalu&key
+#EXTINF:-1 tvg-id="Zeecinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Dish DishTV",Zee Cinemalu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeecinemalu|User-Agent=Denver1769
+
+
 #EXTINF:-1 tvg-id="2049" group-title="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd?__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a
+
+#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Maa Movies SD
+http://87.255.35.150:18817
 
 
 #EXTINF:-1 tvg-id="2048" group-title="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Star Maa Gold
@@ -13,5 +50,24 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+
+
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="dishtv | Regional", Zee Telugu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="Sun NX",Gemini HD
+https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
+
 
 
