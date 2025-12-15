@@ -1,6 +1,17 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
+#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",Zee Telugu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1765889218~acl=%2f*~id=5dc753a5-40e0-441e-8fc1-d7e1fef31e42~data=hdntl~hmac=4d9a0498335f1fac32d4fb662b35ce2a9afba3bb0777a6b2ee76f0a0164fd937
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
 http://87.255.35.150:18881/
+
+
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",Zee Cinemalu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1765889218~acl=%2f*~id=5dc753a5-40e0-441e-8fc1-d7e1fef31e42~data=hdntl~hmac=4d9a0498335f1fac32d4fb662b35ce2a9afba3bb0777a6b2ee76f0a0164fd937
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-2-Telugu-HD" group-title="Sports",Star Sports 2 Telugu
 http://87.255.35.150:18280/
@@ -9,7 +20,9 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu", ZEE TELUGU
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
