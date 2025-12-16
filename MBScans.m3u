@@ -44,6 +44,8 @@ https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-country="IN" tvg-chno="003" tvg-language="te" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="Entertainment", Zee Telugu HD
 http://87.255.35.150:18222
 
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-country="IN" tvg-chno="004" tvg-language="te" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="Movie", Zee Cinemalu HD
+http://87.255.35.150:18578
 
 #EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",StarMaa HD
 http://87.255.35.150:18846
@@ -53,12 +55,6 @@ http://87.255.35.150:18816
 
 #EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Maa Movies SD
 http://87.255.35.150:18817
-
-
-
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-country="IN" tvg-chno="004" tvg-language="te" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="Movie", Zee Cinemalu HD
-http://87.255.35.150:18578
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Etv" tvg-logo="https://i.ibb.co/pBLMPh3Y/etv.jpg" group-title="Entertainment",E TV
 http://87.255.35.150:18217
