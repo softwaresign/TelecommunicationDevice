@@ -24,7 +24,6 @@ http://87.255.35.150:18222/.ts
 #EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-country="IN" tvg-chno="004" tvg-language="te" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="Movie", Zee Cinemalu HD
 http://87.255.35.150:18578/.ts
 
-
 #EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Maa Movies
 http://87.255.35.150:18817/.ts
 
@@ -41,7 +40,6 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png" group-title=" " , Sony Live
 https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765904121~acl=/*~id=99673063709513707937411446002787~hmac=4e5fe95a510373fedc416743ea0d8252cd6390e5acdb8190266ed83d3655c213
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",SSports 1 Telugu
 http://87.255.35.150:18881/.ts
