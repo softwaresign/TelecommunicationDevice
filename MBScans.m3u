@@ -11,8 +11,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
 http://87.255.35.150:18846/.ts
 
-#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD2
-http://87.255.35.150:18846/
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
