@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
+#EXTINF:-1 tvg-logo=" ", Disney Junior
+http://103.182.170.32:8888/play/a03q
+#EXTINF:-1 tvg-logo=" ", Discovery Kids
+http://103.182.170.32:8888/play/a02o
+#EXTINF:-1 tvg-logo=" ", Discovery Kids
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 tvg-logo=" ", Cartoon Network
+http://103.182.170.32:8888/play/a04o
+#EXTINF:-1 tvg-logo=" ", Pogo
+http://103.182.170.32:8888/play/a02p
