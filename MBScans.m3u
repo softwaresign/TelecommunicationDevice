@@ -16,25 +16,23 @@ http://87.255.35.150:18846/.ts
 #EXTINF:-1 tvg-id="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="Sun NX",Gemini HD
 https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
 
+
 #EXTINF:-1 tvg-id="0-9-9z5383485" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1766148159~acl=%2f*~id=e485db15-4318-4dc4-b875-86bd55d2a0ab~data=hdntl~hmac=6ceb3ea86a64c9cffc4cb11752e200e3029a3d6efaf6db943267fa1a071fc6b7
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1766839287~acl=%2f*~id=ed8eab7f-16d9-4020-b29c-b85e62b70c15~data=hdntl~hmac=77c0380040011dfe61a0f0fee64f8629ff93b7358aceb034bffc0d88725080b5
 
 
 #EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",Zee Telugu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1766148159~acl=%2f*~id=e485db15-4318-4dc4-b875-86bd55d2a0ab~data=hdntl~hmac=6ceb3ea86a64c9cffc4cb11752e200e3029a3d6efaf6db943267fa1a071fc6b7
-
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1766839287~acl=%2f*~id=ed8eab7f-16d9-4020-b29c-b85e62b70c15~data=hdntl~hmac=77c0380040011dfe61a0f0fee64f8629ff93b7358aceb034bffc0d88725080b5
 
 #EXTINF:-1 tvg-id="0-9-9z5383488" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1766148159~acl=%2f*~id=e485db15-4318-4dc4-b875-86bd55d2a0ab~data=hdntl~hmac=6ceb3ea86a64c9cffc4cb11752e200e3029a3d6efaf6db943267fa1a071fc6b7
-
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1766839287~acl=%2f*~id=ed8eab7f-16d9-4020-b29c-b85e62b70c15~data=hdntl~hmac=77c0380040011dfe61a0f0fee64f8629ff93b7358aceb034bffc0d88725080b5
 
 #EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",Zee Cinemalu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1766148159~acl=%2f*~id=e485db15-4318-4dc4-b875-86bd55d2a0ab~data=hdntl~hmac=6ceb3ea86a64c9cffc4cb11752e200e3029a3d6efaf6db943267fa1a071fc6b7
-
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1766839287~acl=%2f*~id=ed8eab7f-16d9-4020-b29c-b85e62b70c15~data=hdntl~hmac=77c0380040011dfe61a0f0fee64f8629ff93b7358aceb034bffc0d88725080b5
 
 #EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-country="IN" tvg-chno="003" tvg-language="te" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="Entertainment", Zee Telugu HD
 http://87.255.35.150:18222/.ts
