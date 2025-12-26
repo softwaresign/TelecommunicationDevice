@@ -39,19 +39,23 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd?__hdn
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd?__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a
 
 
-#EXTINF:-1 tvg-id="1113" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
+#EXTINF:-1 tvg-id="1113" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV2
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a
 
 
-#EXTINF:-1 tvg-id="1803" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89887cc3539757c4802bb3f4b1bed42f:9d02cba14dd041059c40bf3070d7f32e
-#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTINF:-1 tvg-id="1803" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life3
 #EXTHTTP:{"cookie":"__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89887cc3539757c4802bb3f4b1bed42f:9d02cba14dd041059c40bf3070d7f32e
+#EXTINF:-1 tvg-id="1803" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Li33
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a
 
 
