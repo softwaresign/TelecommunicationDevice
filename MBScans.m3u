@@ -8,6 +8,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu", ZEE TELUGU
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+
+
 #EXTINF:-1 tvg-id="1138" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
@@ -15,14 +20,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd?__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d&xxx=%7Ccookie=__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu", ZEE TELUGU
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-
-
-#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
-http://87.255.35.150:18846/.ts
 
 #EXTINF:-1 tvg-id="1112" group-title="Entertainment" tvg-logo="https://i.ibb.co/VWBXr2W4/Maa-HD.png",Star Maa HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
