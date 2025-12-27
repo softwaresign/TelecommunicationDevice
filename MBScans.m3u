@@ -1,4 +1,14 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Makka TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png", ZEE TELUGU
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HOXNdaatRKOKfRuNuvnDMA","k":"ZX_I59UzRWywZE_gNFiksg"}],"type":"temporary"}
@@ -72,7 +82,6 @@ https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_in
 https://vvsolutions-server11.in/slnnews_2/video.m3u8 
 
 
-
 #EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
@@ -96,6 +105,41 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg" group-title=" " , Willow Sports 2
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket", Live Cricket
+http://103.140.254.2:3500/live/551.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket",  Willow Sports 2 HD
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SKY SPORTS CRICKET
+http://178.33.239.54:8080/503/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Star Sports 2 HD
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Star Sports 1 HD
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ",Star Sports 1 HD
+https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ",Star Sports 2 HD
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Sony Ten  1 HD
+https://tvsen5.aynaott.com/snTn1HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Ptv Sports HD
+https://tvsen7.aynaott.com/wJf84zDS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TNT Sports 1
+https://tvsen6.aynaott.com/btSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TNT Sports 2
+https://tvsen6.aynaott.com/btSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",T Sports 
+https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
@@ -132,6 +176,17 @@ https://cc-wie8j8y69d2uy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 #EXTINF:-1 tvg-id="" tvg-name="Etv News" tvg-logo="https://i.ibb.co/JVHqWhW/1000150601.png" group-title="News",Etv News
 https://cc-3448kp65yhc5w.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/e73503ca-8965-4097-96a0-c4ec1a6a1741/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AND XPLOR HD
+http://66.102.120.18:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SONY MAX
+http://66.102.120.18:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://i.ibb.co/pjzTyFfQ/Hungama.png" group-title="Kids",Hungama
 http://87.255.35.150:18811/.ts
