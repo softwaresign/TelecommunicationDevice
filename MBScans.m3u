@@ -80,11 +80,6 @@ https://vvsolutions-server11.in/slnnews_2/video.m3u8
 #EXTHTTP:{"cookie":"__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d&xxx=%7Ccookie=__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d
 
-#EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="Music",Maa Music
-http://87.255.35.150:18816/.ts
-
-
-
 
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg" group-title=" " , Willow Cricbuzz
 http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
@@ -101,13 +96,6 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg" group-title=" " , Willow Sports 2
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",SSports 1 Telugu
-http://87.255.35.150:18881/.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="Sports",SSports 2 Telugu
-http://87.255.35.150:18280/.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
