@@ -17,7 +17,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd?__hdnea__=s
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu", ZEE TELUGU
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
 
@@ -37,7 +37,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd?__hdnea__=st=
 https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
 
 
-#EXTINF:-1 tvg-id="0-9-9z5383485" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
+#EXTINF:-1 tvg-id="0-9-9z5383485" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu NW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1766839287~acl=%2f*~id=ed8eab7f-16d9-4020-b29c-b85e62b70c15~data=hdntl~hmac=77c0380040011dfe61a0f0fee64f8629ff93b7358aceb034bffc0d88725080b5
 
@@ -48,7 +48,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu", ZEE Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 
 
@@ -60,7 +60,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|d
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd?__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d&xxx=%7Ccookie=__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d
 
 
-#EXTINF:-1 tvg-id="0-9-9z5383488" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
+#EXTINF:-1 tvg-id="0-9-9z5383488" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu NW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1766839287~acl=%2f*~id=ed8eab7f-16d9-4020-b29c-b85e62b70c15~data=hdntl~hmac=77c0380040011dfe61a0f0fee64f8629ff93b7358aceb034bffc0d88725080b5
 
