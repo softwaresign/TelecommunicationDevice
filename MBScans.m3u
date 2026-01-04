@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/yBY0ZXFZ/zeecinemalu.jpg",ZEE_CINEMALU
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
-
-
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Zee_Telugu.png", ZEE_TELUGU
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HOXNdaatRKOKfRuNuvnDMA","k":"ZX_I59UzRWywZE_gNFiksg"}],"type":"temporary"}
@@ -23,20 +15,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeetelgu|User-Agent=Denver1769
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/yBY0ZXFZ/zeecinemalu.jpg",ZEE_CINEMALU
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeecinemalu&key
 #EXTINF:-1 tvg-id="Zeecinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png", Zee Cinemalu
 #EXTVLCOPT:http-user-agent=Denver1769
 https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeecinemalu|User-Agent=Denver1769
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu", ZEE TELUGU
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Zee_Telugu.png" group-title="Telugu", Zee Telugu
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
