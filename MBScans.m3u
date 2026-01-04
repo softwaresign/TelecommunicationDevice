@@ -19,6 +19,19 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #EXTINF:-1 tvg-id=" " tvg-name="Zee Cinemalu" tvg-logo="https://i.postimg.cc/m28XN2Y6/images-5.jpg" group-title="Telugu", ZEE Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/main.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeetelgu&key
+#EXTINF:-1 tvg-id="Zeetelgu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Dish DishTV",Zee Telugu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeetelgu|User-Agent=Denver1769
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeecinemalu&key
+#EXTINF:-1 tvg-id="Zeecinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Dish DishTV",Zee Cinemalu
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeecinemalu|User-Agent=Denver1769
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu", ZEE TELUGU
