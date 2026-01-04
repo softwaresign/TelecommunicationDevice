@@ -38,10 +38,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|d
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU", MAA TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", MAA TV HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/168.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU", Maa Movies HD
+#EXTINF:-1 tvg-logo="https://cdn.smartads.in/images/product/television/Star-Maa-Movies-HD.png" group-title="TELUGU", Maa Movies HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9015.ts
 
 #EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
