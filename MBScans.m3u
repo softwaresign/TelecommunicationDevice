@@ -43,6 +43,20 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|d
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU", MAA TV HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/168.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU", Maa Movies HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9015.ts
+
+#EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d&xxx=%7Ccookie=__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="Sun NX",Gemini HD
@@ -91,18 +105,6 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194337" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" group-title="SunNxt"Gemini Life",Gemini Life
 https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU", MAA TV HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/168.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU", Maa Movies HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9015.ts
-
-#EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d&xxx=%7Ccookie=__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
