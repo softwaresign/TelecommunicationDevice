@@ -46,17 +46,8 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9015.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Maa Gold
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9043.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Music
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="TELUGU", Maa Music
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/57772.ts
-
-
-#EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d&xxx=%7Ccookie=__hdnea__=st=1766752204~exp=1766838604~acl=/*~hmac=bfe6074581f42543dbb3e7d4513a52e0e0e43c879beb5b951ad02a15b471952d
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
