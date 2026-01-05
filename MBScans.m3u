@@ -42,6 +42,14 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/168.ts
 #EXTINF:-1 tvg-logo="https://cdn.smartads.in/images/product/television/Star-Maa-Movies-HD.png" group-title="TELUGU", Maa Movies HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9015.ts
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Maa Gold
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9043.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Music
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/57772.ts
+
+
 #EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
