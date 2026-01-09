@@ -10,7 +10,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1753188405640_l_high", Star Sports 1 Telugu
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1753188405640_l_high.jpg", Star Sports 1 Telugu
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
 
@@ -22,6 +22,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1753199655269_l_high.jpgg", Star Sports 2 Telugu
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1753199655269_l_high.jpg", Star Sports 2 Telugu
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_BTS/output/index.mpd
