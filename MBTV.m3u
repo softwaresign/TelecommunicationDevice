@@ -31,3 +31,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.m
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1753199655269_l_high.jpg", Star Sports 2 Telugu
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_BTS/output/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652834239_l_high.jpg", Star Maa Movies HD
+#EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd
+
+
+
