@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
+http://103.140.254.2:3500/live/1961.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeetelgu&key
 #EXTINF:-1 tvg-id="Zeetelgu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Dish DishTV",Zee Telugu
