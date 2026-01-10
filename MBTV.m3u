@@ -40,6 +40,16 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/39/9/301985_1749652884224_l_high.jpg", Star Maa
+#EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/93/74/302110_1749653065828_l_high.jpg", Maa TV
+#EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd
 
 
