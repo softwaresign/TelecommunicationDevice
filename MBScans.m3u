@@ -34,7 +34,7 @@ https://play.denver1769.fun/Play/watcho/Test00/index.mpd?id=Zeecinemalu|User-Age
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://i.postimg.cc/m28XN2Y6/images-5.jpg" group-title="Telugu", Zee Cinemalu
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu", Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
