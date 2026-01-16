@@ -44,12 +44,13 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/168.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652834239_l_high.jpg", Maa Movies HD
-http://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652834239_l_high.jpg", Maa Movies
-http://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Maa Gold
