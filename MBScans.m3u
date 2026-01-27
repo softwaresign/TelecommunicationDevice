@@ -119,10 +119,10 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/177843.ts
+http://webhop.live:8080/live/24652367/36732367/177843.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 2 Telugu HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/379755.ts
+http://webhop.live:8080/live/24652367/36732367/379755.ts
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
