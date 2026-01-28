@@ -38,7 +38,7 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9016.ts
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", MAA TV HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/168.ts
+http://webhop.live:8080/live/24652367/36732367/98886.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
@@ -55,7 +55,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd?hdnea=st=
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9043.ts
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="TELUGU", Maa Music
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/57772.ts
+http://webhop.live:8080/live/24652367/36732367/57772.ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
