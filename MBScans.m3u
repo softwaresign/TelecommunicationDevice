@@ -28,7 +28,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeecinemalu&key
 #EXTINF:-1 tvg-id="Zeecinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png", Zee Cinemalu HD
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9016.ts
+http://webhop.live:8080/live/24652367/36732367/9016.ts
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -37,8 +38,9 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9016.ts
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu", Zee+Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", MAA TV HD
-http://webhop.live:8080/live/24652367/36732367/98886.ts
+http://webhop.live:8080/live/24652367/36732367/23313.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
@@ -52,7 +54,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd?hdnea=
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd?hdnea=st=1768524645~exp=1768611045~acl=/*~hmac=&xxx=%7Ccookie=hdnea=st=1768524645~exp=1768611045~acl=/*~hmac=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Maa Gold
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9043.ts
+http://webhop.live:8080/live/24652367/36732367/9043.ts
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="TELUGU", Maa Music
 http://webhop.live:8080/live/24652367/36732367/57772.ts
@@ -62,6 +64,7 @@ http://webhop.live:8080/live/24652367/36732367/57772.ts
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="Sun NX",Gemini HD
 https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
+
 
 #EXTINF:-1 tvg-id="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="Sun NX",Gemini HD
 http://45.148.145.57/IN_GE/index.m3u8
