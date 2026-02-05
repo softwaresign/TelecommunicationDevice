@@ -90,9 +90,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd?hdnea=st=1768524645~exp=1768611045~acl=/*~hmac=&xxx=%7Ccookie=hdnea=st=1768524645~exp=1768611045~acl=/*~hmac=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Maa Gold
-http://webhop.live:8080/live/24652367/36732367/9043.ts
+http://sky-glass.live/live/454386/683454/20701.ts
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="TELUGU", Maa Music
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="TELUGU", Maa 
 http://webhop.live:8080/live/24652367/36732367/57772.ts
 
 
