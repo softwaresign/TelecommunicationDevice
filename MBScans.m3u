@@ -57,9 +57,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", MAA TV HD
-http://webhop.live:8080/live/24652367/36732367/23313.ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652834239_l_high.jpg", Star Maa Movies HD
@@ -100,6 +97,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676&xxx=%7Ccookie=__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676
+
+
+#EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1768612287~exp=1768698687~acl=/*~hmac=57910ada1cc9900eafa89ef255c56fb82f6a3d763fe8cbe57ac821ef22f17df6"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1768612287~exp=1768698687~acl=/*~hmac=57910ada1cc9900eafa89ef255c56fb82f6a3d763fe8cbe57ac821ef22f17df6&xxx=%7Ccookie=__hdnea__=st=1768612287~exp=1768698687~acl=/*~hmac=57910ada1cc9900eafa89ef255c56fb82f6a3d763fe8cbe57ac821ef22f17df6
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
