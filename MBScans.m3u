@@ -13,10 +13,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE TELUGU HD
-http://webhop.live:8080/live/24652367/36732367/98894.ts
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeetelgu&key
 #EXTINF:-1 tvg-id="Zeetelgu" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Zee-Telugu-Logo-2011.png", Zee Telugu
@@ -89,11 +85,21 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652834239_l_high.jpg", Maa Movies
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd?hdnea=st=1768524645~exp=1768611045~acl=/*~hmac=&xxx=%7Ccookie=hdnea=st=1768524645~exp=1768611045~acl=/*~hmac=
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg" group-title="TELUGU", Maa Gold
-http://sky-glass.live/live/454386/683454/20701.ts
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="TELUGU", Maa 
-http://webhop.live:8080/live/24652367/36732367/57772.ts
+#EXTINF:-1 tvg-id="1137" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676&xxx=%7Ccookie=__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676
+
+
+#EXTINF:-1 tvg-id="759" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676&xxx=%7Ccookie=__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,18 +165,46 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 1 Telugu HD
-http://webhop.live:8080/live/24652367/36732367/177843.ts
+#EXTINF:-1 tvg-id="1651" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 1 Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd?__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676&xxx=%7Ccookie=__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 2 Telugu HD
-http://webhop.live:8080/live/24652367/36732367/379755.ts
+#EXTINF:-1 tvg-id="3278" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676&xxx=%7Ccookie=__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676
 
+
+#EXTINF:-1 tvg-id="2852" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",Star Sports 2 Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd?__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676&xxx=%7Ccookie=__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg", Star Sports 2 Telugu HD
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="3274" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676&xxx=%7Ccookie=__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu HD
+http://webhop.live:8080/live/24652367/36732367/177843.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://i.ibb.co/sdXR87MD/Star-Sports-1-Telugu-HD.webp" group-title="Sports",Star Sports 2 Telugu HD
+http://webhop.live:8080/live/24652367/36732367/379755.ts
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
