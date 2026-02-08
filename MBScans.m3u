@@ -75,8 +75,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=s
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1768612287~exp=1768698687~acl=/*~hmac=57910ada1cc9900eafa89ef255c56fb82f6a3d763fe8cbe57ac821ef22f17df6"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1768612287~exp=1768698687~acl=/*~hmac=57910ada1cc9900eafa89ef255c56fb82f6a3d763fe8cbe57ac821ef22f17df6&xxx=%7Ccookie=__hdnea__=st=1768612287~exp=1768698687~acl=/*~hmac=57910ada1cc9900eafa89ef255c56fb82f6a3d763fe8cbe57ac821ef22f17df6
+http://StarShare.online:80/live/duck11/duck11/57772.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
