@@ -115,20 +115,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="",DISCOVERY
-http://163.61.227.29:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment Channels",Discovery HD
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V2gtYfH/download-1.png" group-title="Infotainment Channels",Discovery
-http://stvlive.net:8080/discovery/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="KIDS",Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
