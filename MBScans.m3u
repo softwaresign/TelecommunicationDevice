@@ -39,6 +39,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png", Maa TV
 https://2025.telegram-akshaybk29.workers.dev/channel?id=9
 
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png", Maa TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=14
+
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png", Maa TV
+https://2025.telegram-akshaybk29.workers.dev/channel?id=21
+
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png", Maa Movies
 https://2025.telegram-akshaybk29.workers.dev/channel?id=15
 
