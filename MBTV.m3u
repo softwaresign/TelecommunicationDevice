@@ -57,7 +57,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/39/9/301985_1749652884224_l_high.jpg", Star Maa Movies
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/39/9/301985_1749652884224_l_high.jpg", Maa Movies
 #EXTHTTP:{"cookie":"__hdnea__=st=1770968162~exp=1771054562~acl=/*~hmac=a20b369ce7b0b48ea6f53ecd616f0e94ba595042495610cae245fed7b640c883"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd
 
