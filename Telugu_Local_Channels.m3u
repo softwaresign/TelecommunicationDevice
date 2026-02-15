@@ -1,11 +1,11 @@
-//Created By -8088y 
-//Join Telegram @The8088yyy 
-//Vist www.8088y.site 
-#EXTM3U billed-msg="Created By 8088y"  
+//Created By -8088y
+//Join Telegram @The8088yyy
+//Vist www.8088y.site
+#EXTM3U billed-msg="Created By 8088y"
 # =============================TELUGU LOCAL CHANNEL============================ 
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930056864.png" group-title="Telugu Local Channel",VV Movies HD 
-http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8 
+http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930073502.png" group-title="Telugu Local Channel",VV Music HD 
-http://allchannels.in:80/live/vvmusic_100/tracks-v1a1/mono.m3u8 
+http://allchannels.in:80/live/vvmusic_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbHVndXdlYnNvbHV0aW9ucy5zcmVlbmV3c19pY29uXzE3MDM1NjY5MDZfMDgz/icon.webp?w=500&fakeurl=1&type=.webp" group-title="Telugu Local Channel",Sree News 
-https://vvsolutions.in/sreenews/sreenews.m3u8 
+https://vvsolutions.in/sreenews/sreenews.m3u8
