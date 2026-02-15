@@ -1,7 +1,8 @@
 //Created By -8088y 
 //Join Telegram @The8088yyy 
-//Vist www.8088y.site #EXTM3U billed-msg="Created By 8088y"  
-=============================TELUGU LOCAL CHANNEL============================ 
+//Vist www.8088y.site 
+#EXTM3U billed-msg="Created By 8088y"  
+# =============================TELUGU LOCAL CHANNEL============================ 
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930056864.png" group-title="Telugu Local Channel",VV Movies HD 
 http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930073502.png" group-title="Telugu Local Channel",VV Music HD 
