@@ -187,28 +187,29 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1771054562~exp=1771140962~acl=/*~hmac=665694471cff75cc5ba91b267b8057824842f5b3e8fdc7b52dee479e35a734ff"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?
+
 
 
 #EXTINF:-1 tvg-id="2852" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",Star Sports 2 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770993062~exp=1771079462~acl=/*~hmac=1316fe17905700036098ecefff474aab065cc041652e8fd541a204b1a0ade3d4"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd?
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg", Star Sports 2 Telugu HD
-#EXTHTTP:{"cookie":"__hdnea__=st=1770993062~exp=1771079462~acl=/*~hmac=1316fe17905700036098ecefff474aab065cc041652e8fd541a204b1a0ade3d4"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="3274" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766279791~exp=1766366191~acl=/*~hmac=b8af3fe92ca0fdaa0915498999bbefc02e12b602c825b177bbcf1882aab1a676"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?
 
 
@@ -218,6 +219,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.m
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo=" " group-title="Sports", TNT Sports 1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
 
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg" group-title=" " , Willow Cricbuzz
 http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
