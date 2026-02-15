@@ -9,3 +9,5 @@ http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8
 http://allchannels.in:80/live/vvmusic_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbHVndXdlYnNvbHV0aW9ucy5zcmVlbmV3c19pY29uXzE3MDM1NjY5MDZfMDgz/icon.webp?w=500&fakeurl=1&type=.webp" group-title="Telugu Local Channel",Sree News 
 https://vvsolutions.in/sreenews/sreenews.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" ",SLN Channel
+https://vvsolutions-server11.in/slnnews_2/video.m3u8
