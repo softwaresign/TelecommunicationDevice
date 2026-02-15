@@ -1,97 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/1961.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/1955.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/1883.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/1834.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/1855.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/527.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/528.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/541.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/543.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/544.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel multi
-http://103.140.254.2:3500/live/545.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/551.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/554.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel multi
-http://103.140.254.2:3500/live/558.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel multi
-http://103.140.254.2:3500/live/569.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/571.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/573.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/574.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/575.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/577.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/583.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/587.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/591.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", Zoom Music
-http://103.140.254.2:3500/live/592.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mpC1HY8/tvchannel.jpg" group-title=" ", TV Channel
-http://103.140.254.2:3500/live/400.m3u8
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/Play/watcho/Test00/index.php?id=Zeetelgu&key
 #EXTINF:-1 tvg-id="Zeetelgu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Dish DishTV",Zee Telugu
@@ -119,16 +26,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd?__hdnea__=s
 #KODIPROP:inputstream.adaptive.license_key=516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=st=1764975632~exp=1765062032~acl=/*~hmac=695888f06d9ee553bc1f2e8e929fe5b8f5508326a61cd7d2b8ec037e9935b46a
+https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd
 
 
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE TELUGU
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
 
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo=" " group-title="Telugu", ZEE Cinemalu
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd?|drmScheme=clearkey&drmLicense=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="dishtv | Regional", Zee Telugu
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
