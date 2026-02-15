@@ -86,7 +86,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="1137" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png", Maa Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15
+#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd
