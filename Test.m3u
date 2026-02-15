@@ -1,48 +1,4 @@
-#EXTM3U Test my Channels
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="" group-title="Sun NX",Star Maa
-https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd?
-
-
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="" group-title="Sun NX",Star Sports1
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd?
-
-
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="Sun NX",Gemini
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b26fa5b77ff4223a376c2b98032fbf8:afe95b582fd6abe1b767732c8cdf799afd
-https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b26fa5b77ff4223a376c2b98032fbf8:afe95b582fd6abe1b767732c8cdf799afd
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="Sun NX",Gemini2
-https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
-
-
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="Sun NX",Gemini3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b26fa5b77ff4223a376c2b98032fbf8:afe95b582fd6abe1b767732c8cdf799afd
-https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
-
-
-#EXTINF:-1 tvg-id="1097" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a39a9699a2e354ce9312d2933d8bf83c:4bc2a11372933c408bc27b11d832d836
-#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
-
-
-#EXTINF:-1 tvg-id="1097" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedyone
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a39a9699a2e354ce9312d2933d8bf83c:4bc2a11372933c408bc27b11d832d836
-#EXTHTTP:{"cookie":"__hdnea__=st=1771079462~exp=1771165862~acl=/*~hmac=99ae6b3c843b2bbb301b399bb8dce236e4b0e3d9b3aefdabcfcb36924f5e449b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
-
-
+#EXTM3U
 #EXTINF:-1 tvg-id="1113" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
