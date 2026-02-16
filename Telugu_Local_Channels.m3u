@@ -42,27 +42,30 @@ http://allchannels.in:80/live/hollywood_100/tracks-v1a1/mono.m3u8
 http://allchannels.in:80/live/hollywood/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Music Tv" tvg-logo="https://i.ibb.co/gMTmjcfB/1000158154.png" group-title="Local Channels",Music Tv
-http://allchannels.in:80/live/music_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/music/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Movies Tv" tvg-logo="https://i.ibb.co/gMTmjcfB/1000158154.png" group-title="Local Channels",Movies Tv
-http://allchannels.in:80/live/movies_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/movies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RK Hollywood" tvg-logo="https://i.ibb.co/367TJ9q/1000151332.png" group-title="Local Channels",RK Hollywood
-http://allchannels.in:80/live/rkhollywood_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/rkhollywood/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Devi Cable" tvg-logo="https://i.ibb.co/MxCYfKVm/1000149123.png" group-title="Local Channels",Devi Cable
-http://allchannels.in:80/live/devicable_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/devicable/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PVP Movies" tvg-logo="https://i.ibb.co/TMLcBsmd/1000151312.png" group-title="Local Channels",PVP Movies
-http://allchannels.in:80/live/pvpmovies_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/pvpmovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PVP HD" tvg-logo="https://i.ibb.co/TMLcBsmd/1000151312.png" group-title="Local Channels",PVP HD
-http://allchannels.in:80/live/pvphd_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/pvphd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PVP HD" tvg-logo="https://i.ibb.co/TMLcBsmd/1000151312.png" group-title="Local Channels",PVP HD2
+http://allchannels.in:80/live/pvphd/pvphd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Siti Cable News" tvg-logo="https://i.ibb.co/kVJrVT6H/1000151324.png" group-title="Local Channels",Siti Cable News
-http://allchannels.in:80/live/siticablenewstandur_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/siticablenewstandur/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RK Movies" tvg-logo="https://i.ibb.co/XZg28Dbc/1000151328.png" group-title="Local Channels",RK Movies
-http://allchannels.in:80/live/rkmovies_100/tracks-v1a1/mono.m3u8
+http://allchannels.in:80/live/rkmovies/tracks-v1a1/mono.m3u8
 
 
