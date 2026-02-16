@@ -1,8 +1,20 @@
-//Created By -8088y
-//Join Telegram @The8088yyy
-//Vist www.8088y.site
-#EXTM3U billed-msg="Created By 8088y"
-#=============================TELUGU LOCAL CHANNEL============================ 
+//Created By Local Tv Channels
+#EXTM3U
+# =============================TELUGU LOCAL CHANNEL============================ 
+#EXTINF:-1 , CHITTOOR TV
+https://server.streamwell.in/hls/chittoortvhd.m3u8
+
+#EXTINF:-1 , TIRUMALA TV
+https://mumbai-edge.smartplaytv.in/TirumalaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 , MOJO TV
+https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601|Referer=https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601
+
+#EXTINF:-1 , SHREYAS MUSIC
+https://mumbai-edge.smartplaytv.in/ShreyasMusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 , SSLC MUSIC
+https://mumbai-edge.smartplaytv.in/SSLCMusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Siti Channel" tvg-logo="https://i.ibb.co/9mDgN0rP/siti-channel.png" group-title="Local Channels",Siti Channel
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
@@ -25,6 +37,9 @@ https://vvsolutions.in/sreenews/sreenews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Ux5hUD3G0CqgjYzLusscYCzBsbKWepCkhArK1-4-LUFlGxE2yFfLda_SyRE5wI3E2Kn-VnNwHg=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu Local Channel",SLN News
 https://vvsolutions-server11.in/slnnews_2/video.m3u8 
 
+#EXTINF:-1 , KPS TV
+https://live.kpsnetwork.in/kps/kps/chunklist_w314016044.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -34,75 +49,32 @@ https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sathya News Tv" tvg-logo="https://i.ibb.co/pvv6v793/1000153275.png" group-title="Local Channels",Sathya News Tv
 http://103.146.170.102:1935/satya/satya/chunklist_w1792896619.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Tv" tvg-logo="https://i.ibb.co/gMTmjcfB/1000158154.png" group-title="Local Channels",Hollywood Tv
-http://allchannels.in:80/live/hollywood_100/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Tv" tvg-logo="https://i.ibb.co/gMTmjcfB/1000158154.png" group-title="Local Channels",Hollywood 2
-http://allchannels.in:80/live/hollywood/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Music Tv" tvg-logo="https://i.ibb.co/gMTmjcfB/1000158154.png" group-title="Local Channels",Music Tv
-http://allchannels.in:80/live/music/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Movies Tv" tvg-logo="https://i.ibb.co/gMTmjcfB/1000158154.png" group-title="Local Channels",Movies Tv
-http://allchannels.in:80/live/movies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RK Hollywood" tvg-logo="https://i.ibb.co/367TJ9q/1000151332.png" group-title="Local Channels",RK Hollywood
-http://allchannels.in:80/live/rkhollywood/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Devi Cable" tvg-logo="https://i.ibb.co/MxCYfKVm/1000149123.png" group-title="Local Channels",Devi Cable
-http://allchannels.in:80/live/devicable/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PVP Movies" tvg-logo="https://i.ibb.co/TMLcBsmd/1000151312.png" group-title="Local Channels",PVP Movies
-http://allchannels.in:80/live/pvpmovies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PVP HD" tvg-logo="https://i.ibb.co/TMLcBsmd/1000151312.png" group-title="Local Channels",PVP HD
-http://allchannels.in:80/live/pvphd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PVP HD" tvg-logo="https://i.ibb.co/TMLcBsmd/1000151312.png" group-title="Local Channels",PVP HD2
-http://allchannels.in:80/live/pvphd/pvphd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Siti Cable News" tvg-logo="https://i.ibb.co/kVJrVT6H/1000151324.png" group-title="Local Channels",Siti Cable News
-http://allchannels.in:80/live/siticablenewstandur/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RK Movies" tvg-logo="https://i.ibb.co/XZg28Dbc/1000151328.png" group-title="Local Channels",RK Movies
-http://allchannels.in:80/live/rkmovies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 , KPS TV
-https://live.kpsnetwork.in/kps/kps/chunklist_w314016044.m3u8
 #EXTINF:-1 , PUBLIC TV
 https://publictvtelugu.co.in/publictv_1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , PUBLIC FOLK MUSIC TV
 https://publictvtelugu.co.in/publictvfolkmusic_2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , METRO TV
 https://mercury.streambridge.link:8042/telugu/metrotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , MOJO TV
-https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601|Referer=https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601
-#EXTINF:-1 , TGN TV
-https://venus.streambridge.link:8047/telugu/tgn/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 , NCN TV
 https://cloud.sundaylive.co.in/ncnhd/ncnhd/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 , CVR HEALTH
 https://mumbai-edge.smartplaytv.in/CVRHealth/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Y CHANNEL
-https://amigofx.com:1936/ychannel/ychannel/index.m3u8
-#EXTINF:-1 , Y CHANNEL2
-https://amigofx.com:1936/ychannel/ychannel/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 , 7 HILLS
 https://server.streamwell.in/hls/7hills.m3u8
-#EXTINF:-1 , CHITTOOR TV
-https://server.streamwell.in/hls/chittoortvhd.m3u8
-#EXTINF:-1 , SSLC MUSIC
-https://mumbai-edge.smartplaytv.in/SSLCMusic/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , SSLC MULTIPLEX
 https://mumbai-edge.smartplaytv.in/SSLCMultiplex/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , SHREYAS TV
 https://mumbai-edge.smartplaytv.in/ShreyasTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , SHREYAS MUSIC
-https://mumbai-edge.smartplaytv.in/ShreyasMusic/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , MASTI MUSIC
 https://mumbai-edge.smartplaytv.in/MastiMusic/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , LOCAL TV
 https://mumbai-edge.smartplaytv.in/LocalTVNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , TIRUMALA TV
-https://mumbai-edge.smartplaytv.in/TirumalaHD/tracks-v1a1/mono.m3u8
