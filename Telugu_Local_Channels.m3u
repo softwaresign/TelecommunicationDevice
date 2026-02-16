@@ -40,8 +40,6 @@ https://vvsolutions-server11.in/slnnews_2/video.m3u8
 #EXTINF:-1 , KPS TV
 https://live.kpsnetwork.in/kps/kps/chunklist_w314016044.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PCN HD" tvg-logo="https://i.ibb.co/gZG98hHQ/1000151358.png" group-title="Local Channels",PCN HD
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
