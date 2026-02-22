@@ -18,7 +18,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1771723196~exp=1771809596~acl=/*~hmac=f4b94368c5903727f68360e98f196dc1583d8757be20ae10c5b2beaad4e5580a"}
-#EXTHTTP:{"cookie":"__hdnea__=st=1771676925~exp=1771763325~acl=/*~hmac=7b40c10a82f1535df424dc7d04b1cdab3b4c2530d5ea4b37623a6277201dac5e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="3278" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
@@ -33,7 +32,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1771676925~exp=1771763325~acl=/*~hmac=7b40c10a82f1535df424dc7d04b1cdab3b4c2530d5ea4b37623a6277201dac5e"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1771723196~exp=1771809596~acl=/*~hmac=f4b94368c5903727f68360e98f196dc1583d8757be20ae10c5b2beaad4e5580a"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd?
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
