@@ -11,3 +11,21 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png", Zee Cinemalu
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
+
+#EXTINF:-1 group-title="sports",Star Sports Telugu hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=195
+
+#EXTINF:-1 group-title="sports",Star Sports Telugu1 hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=196
+
+#EXTINF:-1 group-title="sports",Star Sports Telugu2 hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=197
+
+#EXTINF:-1 group-title="sports",Star Sports Telugu3 hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=198
+
+#EXTINF:-1 group-title="sports",Star Sports Telug4 hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=199
+
+#EXTINF:-1 group-title="sports",Star Sports Telug5 hd
+https://2025.telegram-akshaybk29.workers.dev/channel?id=200
