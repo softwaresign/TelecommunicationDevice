@@ -21,3 +21,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #EXTINF:1 tvg-id="Zee Bollywood" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png" group-title="Watcho Dishtv",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
+#EXTINF:0,DISCOVERY-KIDS
+http://103.161.153.165:8000/play/a014/index.m3u8
+
+#EXTINF:0,DISNEY Hindi
+http://103.161.153.165:8000/play/a012/index.m3u8
+
+#EXTINF:0,POGO
+http://103.161.153.165:8000/play/a03o/index.m3u8
+
+
