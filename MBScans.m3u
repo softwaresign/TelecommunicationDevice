@@ -127,42 +127,6 @@ https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_in
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + SD
 https://cdn-1.pishow.tv/live/276/master.m3u8
 
-#EXTINF:-1 tvg-id="1651" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 1 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1771292162~exp=1771378562~acl=/*~hmac=6236662c7ee0418a1d3c3d09858d0a225ef2c74a8495d4f1b7f6e47284bbb135"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd?
-
-#EXTINF:-1 tvg-id="3278" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1771140962~exp=1771227362~acl=/*~hmac=46822f75979867da371ba09eadcb7f79ab8132704a8a80ff366b6f06d21a3d07"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?
-
-
-#EXTINF:-1 tvg-id="2852" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",Star Sports 2 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookies":"__hdnea__=st=1771378562~exp=1771464962~acl=/*~hmac=637658f3ded9fab4136a8b09259f1f208afd98c184d8a4c8aadc03ad397f693b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd?
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1753185948642_l_high.jpg", Star Sports 2 Telugu HD
-#EXTHTTP:{"cookies":"__hdnea__=st=1771378562~exp=1771464962~acl=/*~hmac=637658f3ded9fab4136a8b09259f1f208afd98c184d8a4c8aadc03ad397f693b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
-
-#EXTINF:-1 tvg-id="3274" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookies":"__hdnea__=st=1771378562~exp=1771464962~acl=/*~hmac=637658f3ded9fab4136a8b09259f1f208afd98c184d8a4c8aadc03ad397f693b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd?
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -219,15 +183,6 @@ https://cc-wie8j8y69d2uy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 #EXTINF:-1 tvg-id="" tvg-name="Etv News" tvg-logo="https://i.ibb.co/JVHqWhW/1000150601.png" group-title="News",Etv News
 https://cc-3448kp65yhc5w.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/e73503ca-8965-4097-96a0-c4ec1a6a1741/2.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="",AND XPLOR HD
-http://66.102.120.18:8000/play/a012/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",SONY MAX
-http://66.102.120.18:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://i.ibb.co/pjzTyFfQ/Hungama.png" group-title="Kids",Hungama
-http://87.255.35.150:18811/.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Wow Kids" tvg-logo="https://i.ibb.co/9mGvxyVJ/1000148075.png" group-title="Kids", Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
