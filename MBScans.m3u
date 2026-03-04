@@ -30,7 +30,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE Cinemalu" tvg-logo="https://i.ibb.co/FqwzRbrS/zcinemalu.jpg" group-title="Telugu", Zee_Cinemalu
+#EXTINF:-1 tvg-id=" " tvg-name="ZEE Cinemalu" tvg-logo="https://i.ibb.co/FqwzRbrS/zcinemalu.jpg" group-title="Telugu", ZEE CINEMALU
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
 
@@ -44,7 +44,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Z Cinemalu
+#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee_Cinemalu
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
