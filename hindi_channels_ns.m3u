@@ -82,16 +82,20 @@ http://135.125.109.73:9000/beinsport3_.m3u8
 http://stvlive.net:8080/natgeo/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony TV
 http://stvlive.net:8080/sonyentten/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max HD
 http://stvlive.net:8080/sonymax/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",Sony Ten 1
 http://stvlive.net:8080/sonyten1/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2
-http://stvlive.net:8080/sonyten2/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
 http://stvlive.net:8080/sonyten5/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
 http://stvlive.net:8080/starsports2/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports1
+http://stvlive.net:8080/starsports1/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports1 T
+http://stvlive.net:8080/starsports1telugu/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2 T
+http://stvlive.net:8080/starsports2telugu/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Zee%20Cinema1731407656.png",&Pictures HD
