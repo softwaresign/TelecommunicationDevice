@@ -46,7 +46,154 @@ http://103.99.249.139/starsport2/index.m3u8
 http://103.99.249.139/sonyyay/index.m3u8
 
 
-
+#EXTINF:-1 ,Star Maa Gold (576p)
+http://103.121.6.5:8000/play/a063/index.m3u8
+#EXTINF:-1 ,Star Sports 2 Hindi HD (480p)
+http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+#EXTINF:-1 ,Star Sports 3 (576p)
+http://103.121.6.5:8000/play/a05y/index.m3u8
+#EXTINF:-1 ,Star Vijay HD (360p)
+http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
+#EXTINF:-1 ,Star Vijay HD (360p)
+http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
+#EXTINF:-1 ,Studio Yuva (576p)
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
+#EXTINF:-1 ,Sudarshan News (1080p)
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,Sun Music HD (720p)
+http://15.235.144.106:14055
+#EXTINF:-1 ,Sun Neo (576p)
+http://163.61.227.29:8000/play/a04t/index.m3u8
+#EXTINF:-1 ,Sun TV HD (720p)
+http://15.235.144.106:14054
+#EXTINF:-1 ,Suriyan TV (576p)
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 ,Zee Talkies HD (1080p)
+http://116.90.120.128:8000/play/a0io/index.m3u88
+#EXTINF:-1 ,Zee Tamil HD (360p)
+http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8
+#EXTINF:-1 ,Zee Tamil HD (360p)
+http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
+#EXTINF:-1 ,Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 ,Kushi TV (576p)
+http://111.88.78.21:8000/play/a0zn/index.m3u8
+#EXTINF:-1 ,Jaya Max (576p)
+http://111.88.78.21:8000/play/a0wk/index.m3u8
+#EXTINF:-1 ,Hungama TV (576p)
+http://111.88.78.21:8000/play/a0z1/index.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/963px-Banglavision.svg.png",Banglavison
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1080px-Logo_of_Deepto_TV.svg.png",Deepto Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp1.png",Live Sports-1
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
+http://163.61.227.29:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",BeIN Sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",BeIN Sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png",BeIN Sports 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png",Atn Bangla
+http://stvlive.net:8080/atnbangla/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
+http://stvlive.net:8080/atnnews/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
+http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/BTV1731308323.png",BTV
+http://stvlive.net:8080/btv/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Channel%20241731584609.png",Channel 24
+http://stvlive.net:8080/channel24/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
+http://stvlive.net:8080/channeli/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png",Colors HD
+http://stvlive.net:8080/colorshd/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png",Discovery
+http://stvlive.net:8080/discovery/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",Ekattor TV
+http://stvlive.net:8080/ekattor/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Independent%20TV1731406270.png",Independent TV
+http://stvlive.net:8080/independent/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png",Jalsha Movies
+http://stvlive.net:8080/jalshamovies/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
+http://stvlive.net:8080/jamuna/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
+http://stvlive.net:8080/metv/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
+http://stvlive.net:8080/moviebangla/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png",National Geographic
+http://stvlive.net:8080/natgeo/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/NTV1731389953.png",NTV
+http://stvlive.net:8080/ntv/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
+http://stvlive.net:8080/somoy/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png",Sony Aath
+http://stvlive.net:8080/sonyaath/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony Enter Ten
+http://stvlive.net:8080/sonyentten/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max
+http://stvlive.net:8080/sonymax/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",Sony Ten 1
+http://stvlive.net:8080/sonyten1/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2
+http://stvlive.net:8080/sonyten2/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
+http://stvlive.net:8080/sonyten5/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png",Star Gold
+http://stvlive.net:8080/stargold/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",Star Jalsha
+http://stvlive.net:8080/starjalsha/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies
+http://stvlive.net:8080/starmovies/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731424615.png",Star Plus
+http://stvlive.net:8080/starplus/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
+http://stvlive.net:8080/starselect1/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Select21731408458.png",Star Select2
+http://stvlive.net:8080/starselect2/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
+http://stvlive.net:8080/starsports2/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
+http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
+http://stvlive.net:8080/zeebangla/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Zee%20Cinema1731407656.png",Zee Cinema
+http://stvlive.net:8080/zeecinema/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports7
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 2
+http://79.127.243.211:14506/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 3
+http://79.127.243.211:14510/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 4
+http://79.127.243.211:14514/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Brand spo
+http://79.127.243.211:14445/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",SporTV 3
+http://79.127.243.211:14473/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",SporTV 2
+http://79.127.243.211:14469/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",SBT
+http://79.127.243.211:14095/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Premiere 6
+http://79.127.243.211:14497/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Premiere 5
+http://79.127.243.211:14493/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Premiere 4
+http://79.127.243.211:14489/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Premiere 3
+http://79.127.243.211:14481/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Premiere 2
+http://79.127.243.211:14485/
 
 
 
