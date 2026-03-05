@@ -23,16 +23,6 @@ http://203.18.159.115/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
 http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_38.png", group-title="Ayna OTT", STAR MOVIES HD
 http://203.18.159.115/STARMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_38.png", group-title="Ayna OTT", STAR MAA
-http://203.18.159.115/STARMAAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_38.png", group-title="Ayna OTT", STAR MAA
-http://203.18.159.115/MAATVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_38.png", group-title="Ayna OTT", MAA MOVIES
-http://203.18.159.115/MAAMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_38.png", group-title="Ayna OTT", MAA MUSIC
-http://203.18.159.115/MAAMUSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_38.png", group-title="Ayna OTT", MAA GOLD
-http://203.18.159.115/MAAGOLDHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_27.png", group-title="Ayna OTT", STAR MOVIES SELECT HD
 http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
@@ -40,18 +30,6 @@ http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
 http://203.18.159.115/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png", group-title="Ayna OTT", ZEE TV FHD
 http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png", group-title="Ayna OTT", ZEE TEL1
-http://203.18.159.115/ZEETELUGUHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png", group-title="Ayna OTT", ZEE TEL2
-http://203.18.159.115/ZEETELHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png", group-title="Ayna OTT", ZEE TEL3
-http://203.18.159.115/ZEETELUGU/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png", group-title="Ayna OTT", ZEE CINE1
-http://203.18.159.115/ZEECINEMALUHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png", group-title="Ayna OTT", ZEE CINE2
-http://203.18.159.115/ZEECINEMALU/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png", group-title="Ayna OTT", ZEE CINE3
-http://203.18.159.115/ZEECINEHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_37.png", group-title="Ayna OTT", ZEE CAFE HD
 http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_42.png", group-title="Ayna OTT", ZOOM FHD
@@ -93,14 +71,6 @@ http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_31.png", group-title="Ayna OTT", STAR SPORTS 3 FHD
 http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png", group-title="Ayna OTT", STAR SPORTS 1 FHD
-http://203.18.159.115/STARSPORTS1TELUGUHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png", group-title="Ayna OTT", STAR SPORTS 2 FHD
-http://203.18.159.115/STARSPORTS2TELUGUHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png", group-title="Ayna OTT", STAR SPORTS 1 FHD
-http://203.18.159.115/STARSPORTS1TELHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png", group-title="Ayna OTT", STAR SPORTS 2 FHD
-http://203.18.159.115/STARSPORTS2TELHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_28.png", group-title="Ayna OTT", STAR SPORTS SELECT 1 FHD
 http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_16.png", group-title="Ayna OTT", STAR SPORTS SELECT 2 FHD
@@ -113,8 +83,6 @@ http://203.18.159.115/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
 http://203.18.159.115/SONYSPORTS3/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_72.png", group-title="Ayna OTT", SONY SPORTS TEN 4
 http://203.18.159.115/SONYSPORTS4/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_72.png", group-title="Ayna OTT", SONY SPORTS TEN 4 T
-http://203.18.159.115/SONYSPORTS4HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_101.png", group-title="Ayna OTT", SONY SPORTS TEN 5 HD
 http://203.18.159.115/SONYSPORTS5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_40.png", group-title="Ayna OTT", EUROSPORTS HD
@@ -155,11 +123,3 @@ http://203.18.159.115/MNXHD/tracks-v1a1/mono.m3u8
 http://203.18.159.115/MOVIESNOWHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_34.png", group-title="Ayna OTT", ROMEDY NOW
 http://203.18.159.115/ROMEDYNOW/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_86.png", group-title="Ayna OTT", PEACE TV BANGLA FHD
-http://203.18.159.115/PEACETVBANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_86.png", group-title="Ayna OTT", PEACE TV URDU FHD
-http://203.18.159.115/PEACETVURDU/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_86.png", group-title="Ayna OTT", PEACE TV ENGLISH FHD
-http://203.18.159.115/PEACETVENGLISH/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_83.png", group-title="Ayna OTT", MADANI TV FHD
-http://203.18.159.115/MADANITVHD/tracks-v1a1/mono.m3u8
