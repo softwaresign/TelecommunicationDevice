@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony TV
+http://stvlive.net:8080/sonyentten/index.m3u8
+
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max HD
+http://stvlive.net:8080/sonymax/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sony_SAB_Logo.svg/512px-Sony_SAB_Logo.svg.png",Sony Sab HD
+http://103.99.249.139/sonysab/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max HD
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Star_Gold_logo.png/512px-Star_Gold_logo.png",Star Gold HD
+http://103.99.249.139/stargold/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zee_Cinema_2017.png/512px-Zee_Cinema_2017.png",Zee Cinema HD
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sony_Yay_Logo.svg/512px-Sony_Yay_Logo.svg.png",Sony Yay
+http://103.99.249.139/sonyyay/index.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 #EXTINF:-1 tvg-id="& Pictures SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png" group-title="Watcho Dishtv", &Pictures
@@ -23,83 +41,24 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 #EXTINF:0,DISCOVERY-KIDS
 http://103.161.153.165:8000/play/a014/index.m3u8
-
 #EXTINF:0,DISNEY Hindi
 http://103.161.153.165:8000/play/a012/index.m3u8
-
 #EXTINF:0,POGO
 http://103.161.153.165:8000/play/a03o/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sony_SAB_Logo.svg/512px-Sony_SAB_Logo.svg.png",Sony Sab HD
-http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max HD
-http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Star_Gold_logo.png/512px-Star_Gold_logo.png",Star Gold HD
-http://103.99.249.139/stargold/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zee_Cinema_2017.png/512px-Zee_Cinema_2017.png",Zee Cinema HD
-http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Sony_TEN_3_logo.png/512px-Sony_TEN_3_logo.png",Sony Ten 5
-http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",StarSports2 HD
-http://103.99.249.139/starsport2/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sony_Yay_Logo.svg/512px-Sony_Yay_Logo.svg.png",Sony Yay
-http://103.99.249.139/sonyyay/index.m3u8
-
-
-#EXTINF:-1 ,Star Maa Gold (576p)
-http://103.121.6.5:8000/play/a063/index.m3u8
-#EXTINF:-1 ,Star Sports 2 Hindi HD (480p)
-http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 ,Star Sports 3 (576p)
-http://103.121.6.5:8000/play/a05y/index.m3u8
 #EXTINF:-1 ,Star Vijay HD (360p)
 http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
 #EXTINF:-1 ,Star Vijay HD (360p)
 http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
-#EXTINF:-1 ,Studio Yuva (576p)
-https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
 #EXTINF:-1 ,Sun Music HD (720p)
 http://15.235.144.106:14055
 #EXTINF:-1 ,Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 ,Kushi TV (576p)
-http://111.88.78.21:8000/play/a0zn/index.m3u8
 #EXTINF:-1 ,Jaya Max (576p)
 http://111.88.78.21:8000/play/a0wk/index.m3u8
 #EXTINF:-1 ,Hungama TV (576p)
 http://111.88.78.21:8000/play/a0z1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp1.png",Live Sports-1
-http://103.182.170.32:8888/play/a040
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
-http://163.61.227.29:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",BeIN Sports 1
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",BeIN Sports 2
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png",BeIN Sports 3
-http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png",National Geographic
 http://stvlive.net:8080/natgeo/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony TV
-http://stvlive.net:8080/sonyentten/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max HD
-http://stvlive.net:8080/sonymax/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",Sony Ten 1
-http://stvlive.net:8080/sonyten1/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
-http://stvlive.net:8080/sonyten5/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
-http://stvlive.net:8080/starsports2/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports1
-http://stvlive.net:8080/starsports1/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports1 T
-http://stvlive.net:8080/starsports1telugu/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2 T
-http://stvlive.net:8080/starsports2telugu/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
-http://stvlive.net:8080/tsports1/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Zee%20Cinema1731407656.png",&Pictures HD
-http://stvlive.net:8080/zeecinema/index.m3u8
 
 
 
