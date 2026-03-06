@@ -8,24 +8,11 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg" group-title="Religion Channel", Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Star Sports 1 HD
-https://2025.telegram-akshaybk29.workers.dev/channel?id=195
-
 #EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=196
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 A
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", Star Sports 1 HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=197
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 B
-https://2025.telegram-akshaybk29.workers.dev/channel?id=198
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 C
-https://2025.telegram-akshaybk29.workers.dev/channel?id=199
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 D
-https://2025.telegram-akshaybk29.workers.dev/channel?id=200
 
 #EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE TELUGU
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -211,6 +198,10 @@ https://cdn-1.pishow.tv/live/1211/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ABN Andra Jothi" tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png" group-title="News",ABN Andra Jothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png", ETV BalBharat
+https://2025.telegram-akshaybk29.workers.dev/channel?id=195
+
 
 #EXTINF:-1 tvg-id="" tvg-name="V6 News" tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png" group-title="Local Channels",V6 News
 https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
