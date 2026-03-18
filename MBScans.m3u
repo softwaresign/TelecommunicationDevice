@@ -55,7 +55,10 @@ https://2025.telegram-akshaybk29.workers.dev/channel?id=10
 https://2025.telegram-akshaybk29.workers.dev/channel?id=17
 
 #EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
-https://2025.telegram-akshaybk29.workers.dev/channel?id=53
+https://2025.telegram-akshaybk29.workers.dev/channel?id=55
+
+#EXTINF:-1 group-title="TELUGU",Maa Gold
+https://2025.telegram-akshaybk29.workers.dev/channel?id=42
 
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://www.pngfind.com/pngs/m/77-773215_the-above-logo-design-and-the-artwork-you.png", Gemini Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
