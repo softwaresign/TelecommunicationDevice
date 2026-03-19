@@ -7,6 +7,11 @@ https://n9.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=EUkfHXbg4BAi-j7BbHzfsA&ex
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://n1.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=UHY2l4dKUry64KEEwBHC3w&expires=1773956982
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Tel
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://n1.sanwalyaarpya.com:1686/hls/startelugu.m3u8?md5=UHY2l4dKUry64KEEwBHC3w&expires=1773956982
+
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png",PTV Sports
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
