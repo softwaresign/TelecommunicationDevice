@@ -39,23 +39,46 @@ https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0429/master.m3u8
-#EXTINF:-1, TV1
-http://iptvcasomsapi.jprdigital.in/x-media/C0430/master.m3u8
+
+
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0432/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0433/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0434/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0438/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
+#EXTINF:-1, TV2
+http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
+
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0444/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0445/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
+#EXTINF:-1, TV3
+http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8
