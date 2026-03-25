@@ -39,46 +39,20 @@ https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Hindi HD
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Hindi
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Telugu
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Tamil
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
 
-
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0432/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0433/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0434/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0438/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
-#EXTINF:-1, TV2
-http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
-
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0444/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0445/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0446/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
-#EXTINF:-1, TV3
-http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8
