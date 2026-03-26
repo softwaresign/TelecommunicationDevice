@@ -56,3 +56,29 @@ https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/03
 #EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="VT OTT | Zee5",Zee Telugu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1774545013~acl=/*~id=00ef2e8f-879a-48d9-ab01-e07e6d06c6a7~data=hdntl~hmac=5660cc7b51de91c197e1feaf39f2d64758b8528187106b3966b948b5c56b68cc
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="VT OTT | Zee5",Zee Cinemalu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1774545013~acl=/*~id=00ef2e8f-879a-48d9-ab01-e07e6d06c6a7~data=hdntl~hmac=5660cc7b51de91c197e1feaf39f2d64758b8528187106b3966b948b5c56b68cc
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg" group-title="VT OTT | Zee5",Zee Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1774545013~acl=/*~id=00ef2e8f-879a-48d9-ab01-e07e6d06c6a7~data=hdntl~hmac=5660cc7b51de91c197e1feaf39f2d64758b8528187106b3966b948b5c56b68cc
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="VT OTT | Zee5",Zee Cinemalu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1774545013~acl=/*~id=00ef2e8f-879a-48d9-ab01-e07e6d06c6a7~data=hdntl~hmac=5660cc7b51de91c197e1feaf39f2d64758b8528187106b3966b948b5c56b68cc
+
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="VT OTT | Jio Cinema",Sonic
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/JC_SonicNick/JCHLS/JC_SonicNick.m3u8
+
