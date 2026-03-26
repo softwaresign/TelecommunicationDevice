@@ -8,6 +8,12 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg" group-title="Religion Channel", Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Telugu
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
+
+
 #EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png", Star Sports 1 HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=198
 
@@ -22,10 +28,6 @@ https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Telugu
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Tamil
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
