@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-
 #EXTINF:-1 tvg-id="3278" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
 #EXTVLCOPT:http-user-agent=@StreamFlex19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
