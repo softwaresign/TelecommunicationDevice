@@ -1,39 +1,20 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV Urdu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", Peace TV English
+#EXTINF:-1, tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" , Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg" group-title="Religion Channel", Quran TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg" , Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Telugu
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
-
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png", Star Sports 1 HD
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png", Star Sports 1 HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=198
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 HD
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png", Star Sports 2 HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=197
 
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Hindi HD
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Hindi
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="VT OTT | Jio Cinema",Star Sports 2 Tamil
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1774545005~acl=%2f*~id=1de12b36ff28f8cdcad2bbc5c83c53d2~data=hdntl~hmac=035bdbf3deb19466236a9061564f4de5fdd53b7efb435c1bead6670ce234ad1f","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
-https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE TELUGU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE TELUGU
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE TELUGU
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HOXNdaatRKOKfRuNuvnDMA","k":"ZX_I59UzRWywZE_gNFiksg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -41,7 +22,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/9mz93NyS/ztelugu.png", Z Telugu
+#EXTINF:-1, tvg-logo="https://i.ibb.co/9mz93NyS/ztelugu.png", Z Telugu
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
@@ -49,46 +30,46 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
-#EXTINF:-1 tvg-id=" " tvg-name="ZEE Cinemalu" tvg-logo="https://i.ibb.co/FqwzRbrS/zcinemalu.jpg" group-title="Telugu", ZEE CINEMALU
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FqwzRbrS/zcinemalu.jpg", ZEE CINEMALU
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee_Cinemalu
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FqwzRbrS/zcinemalu.jpg", Z Cinemalu
 #EXTHTTP:{"cookie":"__hdnea__=st=1767961951~exp=1768048351~acl=/*~hmac=39c7ef4096b2d0e97e95370db9af15efc8b8370627b85e03a8adff57b97fd572"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE TELUGU HD
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE TELUGU HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=13
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FqwzRbrS/zcinemalu.jpg" group-title="Telugu", ZEE CINEMALU HD
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" group-title="Telugu", ZEE CINEMALU HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=14
 
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png", Maa TV HD
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png", Maa TV HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=11
 
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png", Maa Movies HD
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png", Maa Movies HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=17
 
-#EXTINF:-1 tvg-id="SS" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_TV.png", ETV HD
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png", ETV HD
 https://2025.telegram-akshaybk29.workers.dev/channel?id=10
 
-#EXTINF:-1 tvg-id="1129" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
 https://2025.telegram-akshaybk29.workers.dev/channel?id=55
 
-#EXTINF:-1 group-title="TELUGU",Maa Gold
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Star-maa-Gold_TV.jpg" ,Maa Gold
 https://2025.telegram-akshaybk29.workers.dev/channel?id=42
 
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://www.pngfind.com/pngs/m/77-773215_the-above-logo-design-and-the-artwork-you.png", Gemini Music
+#EXTINF:-1, tvg-logo="https://www.pngfind.com/pngs/m/77-773215_the-above-logo-design-and-the-artwork-you.png", Gemini Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
 
-#EXTINF:-1 group-title="TELUGU", N-TV
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png", NTV News
 https://2025.telegram-akshaybk29.workers.dev/channel?id=32
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Joo Music
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
