@@ -31,69 +31,67 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TubcmpnYlNxBsIeNbqInkA", "kid":"diMFZ/PARROn5dEkmrZZgw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg" group-title="Sun NX",Gemini Music HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Sun NX", Gemini Music HD
 https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg" group-title="SunNxt",Gemini Music HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg" group-title="SunNxt", GeMini MusiC HD
 https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="Sun NX",Gemini HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png", Gemini TV HD
 https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
-#EXTINF:-1 tvg-id="Gemini Movies" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg" group-title="Sun NX",Gemini Movies
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies.png", Gemini Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg" group-title="SunNxt",Gemini Comedy
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
 https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
-#EXTINF:-1  tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" group-title="SunNxt",Gemini Life
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png", Gemini Life
 https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies", Studio One
 https://cdn-1.pishow.tv/live/276/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E Tv Cinema" tvg-logo="https://i.ibb.co/9k2J2FVs/1000150575.png" group-title="Entertainment",E Tv Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9k2J2FVs/1000150575.png", ETV Cinema
 https://d1q7j6ha51ro6f.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/2cc76b3d-b062-421d-9c4e-ae75b3f9b0e3/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Etv Music" tvg-logo="https://i.ibb.co/LKLcfk8/1000150599.png" group-title="Music",Etv Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LKLcfk8/1000150599.png", ETV Music
 https://cc-szivnms4rlah6.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/6173a07b-668b-457c-b6ef-50c58d2b7991/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E Tv Plus" tvg-logo="https://i.ibb.co/KczMZfgL/1000150591.png" group-title="Entertainment",E Tv Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KczMZfgL/1000150591.png",ETV Plus
 https://d27tnkf60df3v4.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/e86f748a-e035-446a-8f6f-902e35faedcf/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E TV Abhiruchi" tvg-logo="https://i.ibb.co/5hkZ8280/1000150573.png" group-title="Entertainment",E TV Abhiruchi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hkZ8280/1000150573.png", ETV Abhiruchi
 https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Etv Andhra" tvg-logo="https://i.ibb.co/SwMX4yLb/1000150593.png" group-title="Entertainment",Etv Andhra
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwMX4yLb/1000150593.png", ETV Andhra
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Etv Telangana" tvg-logo="https://i.ibb.co/MxZRmbgQ/1000150603.png" group-title="Entertainment",Etv Telangana
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxZRmbgQ/1000150603.png", ETV Telangana
 https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Etv Josh" tvg-logo="https://i.ibb.co/5hxXnn8V/1000150597.png" group-title="Entertainment",Etv Josh
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hxXnn8V/1000150597.png", ETV Josh
 https://cc-uyh1ow5zouoio.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/be345488-d68c-4928-ab56-33760e506be5/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Etv Comedy" tvg-logo="https://i.ibb.co/8nxc28gY/1000150595.png" group-title="Entertainment",Etv Comedy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nxc28gY/1000150595.png", ETV Comedy
 https://cc-wie8j8y69d2uy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/f2f59ff5-3585-4808-b7df-04f7445a7138/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Etv News" tvg-logo="https://i.ibb.co/JVHqWhW/1000150601.png" group-title="News",Etv News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JVHqWhW/1000150601.png", ETV News
 https://cc-3448kp65yhc5w.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/e73503ca-8965-4097-96a0-c4ec1a6a1741/2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DD Sapthagiri" tvg-logo="https://i.ibb.co/jZvrmhvn/1000150508.png" group-title="Entertainment",DD Sapthagiri
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZvrmhvn/1000150508.png", DD Sapthagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-
-
 
 ===========Sports Channels==================
 #EXTINF:-1, tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
@@ -105,24 +103,21 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 #EXTINF:-1, tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png",Cricket Gold
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cricket Gold" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png" group-title="Sports",Cricket Gold
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png",Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 ================= Religious Channels================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", Peace TV Urdu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", PeaceTV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" , Peace TV English
+#EXTINF:-1, tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", PeaceTV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg" , Quran TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg", Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 =====================Music Channels======================
-#EXTINF:-1, tvg-logo="https://www.pngfind.com/pngs/m/77-773215_the-above-logo-design-and-the-artwork-you.png", Gemini Music
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music.png", Gemini Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -131,53 +126,53 @@ https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_i
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="",YRF Music
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Music",9X Jhakaas
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",9X Jhakaas
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png" group-title="Music",9X Tashan
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png",9X Tashan
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 ================Kids Channels==============
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KIDS",Jungle Book
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Wow Kids" tvg-logo="https://i.ibb.co/9mGvxyVJ/1000148075.png" group-title="Kids", Motu Patlu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mGvxyVJ/1000148075.png", Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="4K Travel TV" tvg-logo="https://i.ibb.co/mF0S3SsL/1000160635.png" group-title="Lifestyle",4K Travel TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mF0S3SsL/1000160635.png",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 ==========================News Channels================
-#EXTINF:-1 tvg-id="" tvg-name="Tv9" tvg-logo="https://i.ibb.co/ppcjnzr/1000150676.png" group-title="News",Tv9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ppcjnzr/1000150676.png", TV9 News
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="6 Tv" tvg-logo="https://i.ibb.co/MDRMCfMF/1000148271.png" group-title="News",6 Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDRMCfMF/1000148271.png", 6TV
 https://cdn-1.pishow.tv/live/232/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="10 Tv" tvg-logo="https://i.ibb.co/hR659PQc/1000148257.png" group-title="News",10 Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR659PQc/1000148257.png",10 Tv
 https://cdn-1.pishow.tv/live/391/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Big Tv" tvg-logo="https://i.ibb.co/99HYMk75/1000149837.png" group-title="News",Big Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99HYMk75/1000149837.png",Big TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="I News" tvg-logo="https://i.ibb.co/s93kCDDH/1000153242.png" group-title="News",I News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s93kCDDH/1000153242.png",I News
 https://cdn-1.pishow.tv/live/411/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HM Tv" tvg-logo="https://i.ibb.co/yFmqvdDZ/1000153240.png" group-title="News",HM Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFmqvdDZ/1000153240.png", HMTV
 https://cdn-1.pishow.tv/live/280/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="99 Tv" tvg-logo="https://i.ibb.co/Jwwd03Px/1000159436.png" group-title="News",99 Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jwwd03Px/1000159436.png", 99 TV
 https://cdn-1.pishow.tv/live/1211/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ABN Andra Jothi" tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png" group-title="News",ABN Andra Jothi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png", Andhra Jothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="V6 News" tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png" group-title="Local Channels",V6 News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png", V6 News
 https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
