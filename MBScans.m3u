@@ -174,5 +174,42 @@ https://cdn-1.pishow.tv/live/1211/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png", Andhra Jothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
 
+=================Other Channels=============================
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mGvxyVJ/1000148075.png", Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWc7tpML/ZEE-CINEMA.png", ZEE CINEMA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tHzFbth/ZEE-CINEMA-HD.png",ZEE CINEMA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+*https://padmaonline.duckdns.org:8088/ZeeCinemaHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tHzFbth/ZEE-CINEMA-HD.png",ZEE CINEMA2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://padmaonline.duckdns.org:8088/ZeeCinemaHD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", ZEE TELUGU HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcbN6PnB/ZOOM.png" , ZOOM
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112",B4U MUSIC
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp", 9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png", V6 News
 https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
