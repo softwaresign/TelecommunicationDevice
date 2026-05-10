@@ -42,31 +42,14 @@ https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="starmaahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",Telugu: STAR-MAA (4K).
-https://playlist-alpha-steel.vercel.app/api/play?id=98886
-#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",Telugu: STAR-MAA-MOVIE (4K).
-https://playlist-alpha-steel.vercel.app/api/play?id=98887
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",Telugu: STAR MAA TV HD
-https://playlist-alpha-steel.vercel.app/api/play?id=168
-#EXTINF:-1 tvg-id="ts957" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",Telugu: STAR MAA MOVIES HD
-https://playlist-alpha-steel.vercel.app/api/play?id=9015
-#EXTINF:-1 tvg-id="ts954" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",Telugu: STAR MAA GOLD
-https://playlist-alpha-steel.vercel.app/api/play?id=9043
-#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",Telugu: STAR-MAA-MOVIE (FHD)
-https://playlist-alpha-steel.vercel.app/api/play?id=23314
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",Telugu: GEMINI (FHD)
-https://playlist-alpha-steel.vercel.app/api/play?id=23315
-#EXTINF:-1 tvg-id="ts840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" group-title="T-Play Telugu",TELUGU: Star Maa Music
-https://playlist-alpha-steel.vercel.app/api/play?id=57772
-
 #EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
+https://playlist-alpha-steel.vercel.app/api/play?id=98886
+#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa
 http://217.20.112.199/maatv/index.m3u8
-
 #EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="Music",Star Maa Music SD
-http://87.255.35.150:18816
-
-#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Star Maa Movies SD
-http://87.255.35.150:18817
+https://playlist-alpha-steel.vercel.app/api/play?id=57772
+#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Star Maa Movies HD
+https://playlist-alpha-steel.vercel.app/api/play?id=98887
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", ZEE TELUGU HD
