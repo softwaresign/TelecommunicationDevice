@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
 ===========Entertainment Channels==================
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/XZVL86fL/ipltelugu.jpg", IPL Telugu
+http://premimum.online/live/jen12345/jen54321/705133.ts
+
 #EXTINF:-1, tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
 
