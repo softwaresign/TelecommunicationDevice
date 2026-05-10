@@ -4,6 +4,9 @@
 #EXTINF:-1, tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cric
+https://crichdembed.lovable.app/api/public/hls?u=aHR0cDovL2ludGhlem9uZS5wcm86ODAvbGl2ZS9Tb2ZpYS9Tb2ZpYS82MzA5ODUubTN1OA
+
 #EXTINF:-1, tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg", Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
