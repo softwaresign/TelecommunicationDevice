@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
-===========Entertainment Channels==================
-
 #EXTINF:-1, tvg-logo="https://i.ibb.co/XZVL86fL/ipltelugu.jpg", IPL Telugu1
 http://premimum.online/live/jen12345/jen54321/705133.ts
 
@@ -9,12 +7,11 @@ http://premimum.online/live/jen12345/jen54321/705154.ts
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/XZVL86fL/ipltelugu.jpg", IPL English
 http://premimum.online/live/jen12345/jen54321/705132.ts
+#EXTINF:-1, tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg", Willow Sports
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg", Willow Sports
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
@@ -44,14 +41,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
 https://playlist-alpha-steel.vercel.app/api/play?id=98886
-#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa
+#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Maa HD
 http://217.20.112.199/maatv/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="Music",Star Maa Music
 https://playlist-alpha-steel.vercel.app/api/play?id=57772
-#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Star Maa Movies HD
+#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Maa Movies HD
 https://playlist-alpha-steel.vercel.app/api/play?id=98887
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", ZEE TELUGU HD
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", ZEE TELUGU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
@@ -105,10 +102,8 @@ https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_in
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
 https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
 
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png", Z One English
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9k2J2FVs/1000150575.png", ETV Cinema
 https://d1q7j6ha51ro6f.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/2cc76b3d-b062-421d-9c4e-ae75b3f9b0e3/1.m3u8
@@ -232,9 +227,9 @@ https://2025.telegram-akshaybk29.workers.dev/channel?id=196
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg" group-title=" " , Willow Cricbuzz
 http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports1 T
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports1 Telugu
 http://stvlive.net:8080/starsports1telugu/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2 T
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2 Telugu
 http://stvlive.net:8080/starsports2telugu/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Indian",ZEE ACTION
