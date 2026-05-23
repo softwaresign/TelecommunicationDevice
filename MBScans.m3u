@@ -9,7 +9,7 @@ http://premimum.online/live/jen12345/jen54321/705154.ts
 http://premimum.online/live/jen12345/jen54321/705132.ts
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png"  ,Star Sports 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1369.ts
+http://main.epgmaker.com:80/live/y49sz6KMQs/6115263489/1369.ts
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssh1.png",Star Sports 1 Hindi HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1065.ts
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/235.png",Star Sports 2 HD
