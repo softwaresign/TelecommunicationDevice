@@ -6,6 +6,14 @@
 #EXTHTTP:{"cookie":"__hdnea__=st=1779611403~exp=1779633003~acl=/*~hmac=a13a8a38acf3611b7788b04b271068416065ca8bedc896e632ea0191be5e3816"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1779611403~exp=1779633003~acl=/*~hmac=a13a8a38acf3611b7788b04b271068416065ca8bedc896e632ea0191be5e3816
 
+#EXTINF:-1 tvg-id="1944" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",Star Sports 1 Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1779611403~exp=1779633003~acl=/*~hmac=a13a8a38acf3611b7788b04b271068416065ca8bedc896e632ea0191be5e3816"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1779611403~exp=1779633003~acl=/*~hmac=a13a8a38acf3611b7788b04b271068416065ca8bedc896e632ea0191be5e3816
+
+
 #EXTINF:-1 tvg-id="1945" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg",Star Sports 1 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
