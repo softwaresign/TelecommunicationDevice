@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml.gz"
-#EXTINF:-1 tvg-id="1944" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",Star Sports 1
+#EXTINF:-1 tvg-id="1944" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",Cricket Video
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTHTTP:{"cookie":"__hdnea__=st=1779611403~exp=1779633003~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=c3a956ca4f35cfa4b03fad0840ae80c08da38dfbba84e1e59b4d918faabe855e"}
 #https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1779611403~exp=1779633003~acl=/*~hmac=a13a8a38acf3611b7788b04b271068416065ca8bedc896e632ea0191be5e3816
-https://github.com/softwaresign/TestStream/raw/refs/heads/main/testVideo.mp4
+https://github.com/softwaresign/TelecommunicationDevice/raw/refs/heads/main/videos/testVideo.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwMX4yLb/1000150593.png", PrafulVideo
 https://github.com/softwaresign/TestStream/raw/refs/heads/main/testVideo.mp4
