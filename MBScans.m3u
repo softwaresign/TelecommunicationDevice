@@ -4,6 +4,14 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/india1.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/gh-pages/guides/in.epg.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimjon-95/tvgraber/main/in.xml"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV URDU
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV ENGLISH
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV URDU2
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV ENG2
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg",Willow By CricBuzz
 #http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
@@ -292,13 +300,15 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV URDU
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV ENGLISH
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV URDU2
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV ENG2
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Peddi Movie
+https://upfile04yx.uperbox.cc/6a2207eb6c5be-Peddi%20%282026%29%20Telugu%20DVDScr%20-%20x264%20-%20AAC%20-%20700MB.mp4?response-content-disposition=attachment%3B%20filename%3D%22Peddi%20%282026%29%20Telugu%20DVDScr%20-%20x264%20-%20AAC%20-%20700MB.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=61f26b6a0ca19c7868ecd7fae5f18d12%2F20260609%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260609T184816Z&X-Amz-SignedHeaders=host&X-Amz-Expires=6000&X-Amz-Signature=1ecea13facaa120b13a86f4355e277dc558a84524d6bcd8ec7038098e285d5d2
+#EXTINF:-1, Veerabhardudu
+https://audinifer.com/stream/lXd1iCb1T0YkyW2WYxprBg/kjhhiuahiuhgihdf/1780816537/71973460/index-v1-a1.m3u8
 
+#EXTINF:-1, Dacoit Love Story
+https://minochinos.com/stream/Q-RkGrRma7y6-iboOBX7Nw/hjkrhuihghfvu/1780816632/40624200/index-v1-a1.m3u8
+#EXTINF:-1, Biker
+https://hanerix.com/stream/NBwjkC5jblqZ62QG4As2XA/kjhhiuahiuhgihdf/1780816695/71124711/index-v1-a1.m3u8
+#EXTINF:-1, Rakaasa
+https://minochinos.com/stream/mg5Ni-4an0TUBHIhYz_sWQ/hjkrhuihghfvu/1780816741/40363984/index-v1-a1.m3u8
