@@ -4,31 +4,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/india1.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/gh-pages/guides/in.epg.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimjon-95/tvgraber/main/in.xml"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg",Willow By CricBuzz
-#http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg",Willow CricBuzz
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",Willow Sports
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",willow sports
-http://27.124.71.27/Willow_Extra/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" group-title="Sports",Sony Sports Ten 5 HD
-http://103.99.249.139/sonyten3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png",Cricket Gold
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", PeaceTV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
@@ -37,6 +12,33 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg", Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg",Willow By CricBuzz
+#http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
+#https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg",Willow CricBuzz
+#https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",Willow Sports
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",willow sports
+#http://27.124.71.27/Willow_Extra/index.m3u8
+http://217.20.112.199/Willow_Extra/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png",Sony Sports Ten 5 HD
+#http://103.99.249.139/sonyten3/index.m3u8
+http://217.20.112.199/sonyten3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png",Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
@@ -49,14 +51,17 @@ https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
-https://playlist-alpha-steel.vercel.app/api/play?id=98886
 #EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Maa HD
+#https://playlist-alpha-steel.vercel.app/api/play?id=98886
+
+#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
 http://217.20.112.199/maatv/index.m3u8
+
 #EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="Music",Star Maa Music
-https://playlist-alpha-steel.vercel.app/api/play?id=57772
+#https://playlist-alpha-steel.vercel.app/api/play?id=57772
+
 #EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Maa Movies HD
-https://playlist-alpha-steel.vercel.app/api/play?id=98887
+#https://playlist-alpha-steel.vercel.app/api/play?id=98887
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", ZEE TELUGU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -94,7 +99,7 @@ https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWc7tpML/ZEE-CINEMA.png", ZEE CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tHzFbth/ZEE-CINEMA-HD.png",ZEE CINEMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,7 +126,7 @@ https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9k2J2FVs/1000150575.png", ETV Cinema
 https://d1q7j6ha51ro6f.cloudfront.net/v1/manifest/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/27931/etv-cinema-320x240.jpg", ETV Cinema
+#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/27931/etv-cinema-320x240.jpg", ETV Cinema HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LKLcfk8/1000150599.png", ETV Music
@@ -131,13 +136,13 @@ https://cc-szivnms4rlah6.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hkZ8280/1000150573.png", ETV Abhiruchi
-https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
+https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwMX4yLb/1000150593.png", ETV Andhra
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxZRmbgQ/1000150603.png", ETV Telangana
-https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
+https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hxXnn8V/1000150597.png", ETV Josh
 https://cc-uyh1ow5zouoio.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/be345488-d68c-4928-ab56-33760e506be5/1.m3u8
@@ -188,11 +193,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",9X Jhakaas
-https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png",9X Tashan
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 ================Kids Channels==============
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -215,9 +215,6 @@ https://cdn-1.pishow.tv/live/391/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXHFSx94/1000151620.png", V6 News
 https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99HYMk75/1000149837.png",Big TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s93kCDDH/1000153242.png",I News
 https://cdn-1.pishow.tv/live/411/master.m3u8
@@ -293,14 +290,4 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 
-#EXTINF:-1, Peddi Movie
-https://upfile04yx.uperbox.cc/6a2207eb6c5be-Peddi%20%282026%29%20Telugu%20DVDScr%20-%20x264%20-%20AAC%20-%20700MB.mp4?response-content-disposition=attachment%3B%20filename%3D%22Peddi%20%282026%29%20Telugu%20DVDScr%20-%20x264%20-%20AAC%20-%20700MB.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=61f26b6a0ca19c7868ecd7fae5f18d12%2F20260609%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260609T184816Z&X-Amz-SignedHeaders=host&X-Amz-Expires=6000&X-Amz-Signature=1ecea13facaa120b13a86f4355e277dc558a84524d6bcd8ec7038098e285d5d2
-#EXTINF:-1, Veerabhardudu
-https://audinifer.com/stream/lXd1iCb1T0YkyW2WYxprBg/kjhhiuahiuhgihdf/1780816537/71973460/index-v1-a1.m3u8
 
-#EXTINF:-1, Dacoit Love Story
-https://minochinos.com/stream/Q-RkGrRma7y6-iboOBX7Nw/hjkrhuihghfvu/1780816632/40624200/index-v1-a1.m3u8
-#EXTINF:-1, Biker
-https://hanerix.com/stream/NBwjkC5jblqZ62QG4As2XA/kjhhiuahiuhgihdf/1780816695/71124711/index-v1-a1.m3u8
-#EXTINF:-1, Rakaasa
-https://minochinos.com/stream/mg5Ni-4an0TUBHIhYz_sWQ/hjkrhuihghfvu/1780816741/40363984/index-v1-a1.m3u8
